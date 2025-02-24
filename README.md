@@ -1,4 +1,4 @@
-                                                                       MrBeast YouTube Channel Analysis  
+                                                         MrBeast YouTube Channel Analysis  
             - Project Overview  
 
 This project uses the YouTube Data API v3 to collect and analyze key statistics from a specified YouTube channel. It retrieves important metrics such as:  
